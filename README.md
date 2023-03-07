@@ -6,7 +6,7 @@ Game of pirate
   
 ![telaInicial](https://user-images.githubusercontent.com/64815075/222987538-15eb3258-7864-4429-b8ed-677b43e0e08a.png)
 
-<h2>Aqui temos uma parte do Game Play do jogo, onde temos 2 timpos de inimigos, que geram pontos. Um dos inimigos vem atrás e o outro atira.
+<h1>Aqui temos uma parte do Game Play do jogo, onde temos 2 timpos de inimigos, que geram pontos. Um dos inimigos vem atrás e o outro atira.
 <br>
 <br>  
 
