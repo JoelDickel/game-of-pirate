@@ -1,4 +1,4 @@
-Game of pirate
+<h3> Game of pirate é um jogo de navios.
 
 <h3> Aqui temos a tela inicial do jogo, onde podemos começar o jogo ou mudar as dificuldades dele.
 <br>
